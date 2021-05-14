@@ -4,7 +4,7 @@
 
 
 
-
+<p>
 KTH Projects:
 
 
@@ -23,9 +23,9 @@ KTH Projects:
 
   > project report in repository
   
+  </p>
   
-  
- 
+ <p>
 Past projects:
 
 *  **"Loading..."** - audiovisual web-based art project from 2016
@@ -33,3 +33,4 @@ Past projects:
 
 *  **Eye Video** - single-channel video installation
   > https://www.youtube.com/watch?v=2D1E-qRhmLQ
+  </p>
