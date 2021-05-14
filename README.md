@@ -13,15 +13,15 @@
 
 * **Rummager** - interactive digital music instrument using touch and gestures as controls
 
-  > Demo Video: https://vimeo.com/513591561
+  > demo video: https://vimeo.com/513591561
 
-  > Project report in repository
+  > project report in repository
 
 * **Perceptual preferences for groove patterns in jazz** - auditory perception research
 
-  > Project report in repository
+  > project report in repository
   
 Other projects
 
 *  **"Loading..."** - web art project from 2016
-*  https://stupefied-noyce-73f18d.netlify.app/index.html
+  >  https://stupefied-noyce-73f18d.netlify.app/index.html
