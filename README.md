@@ -21,7 +21,10 @@
 
   > project report in repository
   
-Other projects
+Past projects
 
-*  **"Loading..."** - web art project from 2016
-  >  https://stupefied-noyce-73f18d.netlify.app/index.html
+*  **"Loading..."** - audiovisual web-based art project from 2016
+  > https://stupefied-noyce-73f18d.netlify.app/index.html
+
+*  **Eye Video** - single-channel video installation
+  > https://www.youtube.com/watch?v=2D1E-qRhmLQ
