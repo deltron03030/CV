@@ -1,8 +1,9 @@
 # CV
 
-**Yan Yu**
+**Yan Yu**, *KTH Interactive Media Technology MSc*
 
-*KTH Interactive Media Technology MSc*
+
+*KTH Projects:
 
 
 * **Eurotransit** - interactive web appllication that visualizes passenger flows in Europe
@@ -19,3 +20,8 @@
 * **Perceptual preferences for groove patterns in jazz** - auditory perception research
 
   > Project report in repository
+  
+Other projects
+
+*  **"Loading..."** - web art project from 2016
+*  https://stupefied-noyce-73f18d.netlify.app/index.html
