@@ -2,7 +2,7 @@
 
 **Yan Yu**, *KTH Interactive Media Technology MSc*
 
-
+<br>
 
 <p>
 KTH Projects:
@@ -24,7 +24,7 @@ KTH Projects:
   > project report in repository
   
   </p>
-  
+ <br>
  <p>
 Past projects:
 
