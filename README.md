@@ -3,7 +3,9 @@
 **Yan Yu**, *KTH Interactive Media Technology MSc*
 
 
-*KTH Projects:
+
+
+KTH Projects:
 
 
 * **Eurotransit** - interactive web appllication that visualizes passenger flows in Europe
@@ -21,7 +23,10 @@
 
   > project report in repository
   
-Past projects
+  
+  
+ 
+Past projects:
 
 *  **"Loading..."** - audiovisual web-based art project from 2016
   > https://stupefied-noyce-73f18d.netlify.app/index.html
